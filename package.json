@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nitropack dev",
+    "build": "nitropack build",
+    "preview": "node .output/server/index.mjs",
+    "lint": "eslint . --fix"
+  },
+  "dependencies": {
+    "h3": "^1.0.1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config-ts": "^0.33.1",
+    "eslint": "^8.29.0",
+    "nitropack": "^1.0.0"
+  }
+}
