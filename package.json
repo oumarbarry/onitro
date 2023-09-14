@@ -5,16 +5,17 @@
     "build": "nitropack build",
     "preview": "node .output/server/index.mjs",
     "postinstall": "nitropack prepare",
-    "lint": "eslint . --fix"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "h3": "^1.7.1"
+    "h3": "^1.8.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config-ts": "^0.39.7",
-    "@types/node": "^18",
-    "eslint": "^8.44.0",
-    "nitropack": "^2.5.2",
-    "typescript": "^5.1.6"
+    "@antfu/eslint-config-ts": "^0.42.0",
+    "@types/node": "^18.17.15",
+    "eslint": "^8.49.0",
+    "nitropack": "^2.6.3",
+    "typescript": "^5.2.2"
   }
 }

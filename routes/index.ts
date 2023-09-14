@@ -1,3 +1,3 @@
 export default defineEventHandler(() => {
-  return { nitro: 'Is Awesome!' }
+  return { onitro: 'is awesome!' }
 })

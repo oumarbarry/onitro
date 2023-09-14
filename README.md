@@ -1,5 +1,6 @@
 
-# ONITRO: Yet Another Nitro Starter Template
+# ONITRO
+Yet Another Nitro Starter Template
 
 <br>
 
