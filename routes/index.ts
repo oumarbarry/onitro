@@ -1,3 +1,1 @@
-export default defineEventHandler(() => {
-  return { onitro: 'is awesome!' }
-})
+export default defineEventHandler(() => ({ onitro: "is awesome" }))

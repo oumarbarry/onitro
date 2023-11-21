@@ -9,10 +9,10 @@ Yet Another Nitro Starter Template
 
 ### Clone to local
 
-Use [tiged](https://github.com/tiged/tiged) to clone to your machine with an empty git history:
+Use [giget](https://github.com/unjs/giget) to clone to your machine with an empty git history:
 
 ```bash
-bunx tiged oumarbarry/onitro nitro-app
+bunx giget@latest gh:oumarbarry/onitro nitro-app
 ```
 
 Then, make sure to install the dependencies:
