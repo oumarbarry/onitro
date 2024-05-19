@@ -1,4 +1,5 @@
 # ONITRO
+
 Yet Another Nitro Starter Template
 
 ## Usage
@@ -12,11 +13,5 @@ Yet Another Nitro Starter Template
 Use [giget](https://github.com/unjs/giget) to clone to your machine with an empty git history:
 
 ```bash
-bunx giget@latest gh:oumarbarry/onitro nitro-app
-```
-
-Then, make sure to install the dependencies:
-
-```bash
-bun install
+bunx giget@latest gh:oumarbarry/onitro nitro-app --install --shell
 ```
