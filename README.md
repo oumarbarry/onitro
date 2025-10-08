@@ -1,6 +1,6 @@
 # ONITRO
 
-Yet Another Nitro Starter Template
+Yet Another Nitro (v2) Starter Template
 
 ## Usage
 

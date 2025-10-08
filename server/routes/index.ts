@@ -1,1 +1,1 @@
-export default defineEventHandler(() => ({ onitro: "is awesome" }))
+export default defineEventHandler(() => ({ nitro: "is awesome" }))
