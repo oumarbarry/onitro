@@ -1,17 +1,18 @@
 # ONITRO
 
-Yet Another Nitro (v2) Starter Template
+Yet Another Nitro (v3) Starter Template (experimental)
+
+- Nitro v3
+- H3 v2
+- TypeScript
+- ESLint
 
 ## Usage
-
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/oumarbarry/onitro/generate)
 
 ### Clone to local
 
 Use [giget](https://github.com/unjs/giget) to clone to your machine with an empty git history:
 
 ```bash
-bunx giget@latest gh:oumarbarry/onitro nitro-app --install --shell
+bunx giget@latest gh:oumarbarry/onitro#v3 nitro-app --install --shell
 ```
