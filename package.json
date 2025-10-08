@@ -5,7 +5,7 @@
     "dev": "nitro dev",
     "build": "nitro build",
     "preview": "node .output/server/index.mjs",
-    "postinstall": "nitropack prepare",
+    "postinstall": "nitro prepare",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
