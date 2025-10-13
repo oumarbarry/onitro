@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "nitro dev",
     "build": "nitro build",
-    "postinstall": "nitro prepare",
+    "preview": "npx srvx --prod .output/",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
@@ -13,7 +13,7 @@
     "@types/node": "^22.18.8",
     "eslint": "^9.37.0",
     "h3": "^2.0.1-rc.2",
-    "nitro": "npm:nitro-nightly@latest",
+    "nitro": "latest",
     "typescript": "^5.9.3"
   }
 }

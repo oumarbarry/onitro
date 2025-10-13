@@ -2,10 +2,10 @@
 
 Yet Another Nitro (v3) Starter Template (experimental)
 
-- Nitro v3
-- H3 v2
+- Nitro v3 (alpha)
+- H3 v2 (rc)
 - TypeScript
-- ESLint
+- ESLint with [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## Usage
 
